@@ -173,3 +173,5 @@ Buổi học diễn ra từ **9:15 đến 13:00**. Hoàn thành bài lab trướ
 
 Chi tiết tiêu chí chấm điểm, bằng chứng và các trường hợp trừ điểm xem tại [RUBRIC.md](RUBRIC.md).  
 Hướng dẫn nộp bài và checklist trước khi nộp xem tại [SUBMISSION.md](SUBMISSION.md).
+
+---
